@@ -16,3 +16,4 @@ Data
 4. http://turystyczna.lodz.pl/data/other/murals_of_lodz_trail.pdf
 5. https://dominikanie.pl/2016/08/siedem-murali-na-800-lat-tak-uczcza-w-lodzi-dominikanski-jubileusz/
 6. http://madeinlodzkie.pl/wp-content/uploads/2017/05/murale-mapa-internet-2.pdf
+7. http://www.urbanforms.org/pl/portfolio/group/projects/#1
